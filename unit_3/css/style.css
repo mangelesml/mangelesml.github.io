@@ -12,7 +12,13 @@ body {
     font-size: 14px;
 }
 
-h1, h2 {
+h1 {
+    color: #54F09C;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
     color: #fff;
     text-align: center;
     text-transform: uppercase;
@@ -24,6 +30,11 @@ h3, p {
     max-width: 800px;
 }
 
+h3 {
+    color: #54F09C;
+    text-align: left;
+    max-width: 800px;
+}
 h4 {
 	color: #fff;
     text-align: center;
