@@ -32,6 +32,13 @@ div, section {
     background-color: #FFE2B8;
 }
 
+aside {
+    background-color: #FFC675;
+}
+
+article {background-color: #E89C6C
+}
+
 h1 {
     color: #000030;
     text-align: center;
