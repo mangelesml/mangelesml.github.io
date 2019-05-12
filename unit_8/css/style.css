@@ -290,7 +290,7 @@ footer {
     #myimage {
         float: none;
         width: 50%;
-        height: 70%;
+        height: 100%;
         display: block;
         padding-top: 2em;
          }
@@ -306,7 +306,7 @@ footer {
     nav {
         display: block;
         text-align: center;
-        font-size: .9em;
+        font-size: .5em;
         padding: 10%;
         float: none;
     }
@@ -361,7 +361,7 @@ footer {
     #myimage {
         float: none;
         width: 50%;
-        height: 30%;
+        height: 100%;
         display: block;
         padding-top: 2em;
          }
